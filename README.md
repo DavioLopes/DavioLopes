@@ -15,5 +15,5 @@
 ##
 
 ![Snake animation](https://github.com/DavioLopes/DavioLopes/blob/output/github-contribution-grid-snake.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavioLopes&repo=Trybe&theme=nightowl)](https://github.com/DavioLopes/Trybe)
+
 
