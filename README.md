@@ -2,8 +2,8 @@
 
 <div style="display: inline">
   <a href="https://github.com/DavioLopes">
-  <img height="180em" width="200"  src="https://github-readme-stats.vercel.app/api?username=DavioLopes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
+  <img height="180em" width="450"  src="https://github-readme-stats.vercel.app/api?username=DavioLopes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
 </div>
   
   ##
