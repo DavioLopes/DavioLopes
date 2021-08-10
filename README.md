@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/DavioLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavioLopes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
 </div>
   </div>
 <div style="display: inline_block"><br>
@@ -15,5 +15,5 @@
 ##
 
 ![Snake animation](https://github.com/DavioLopes/DavioLopes/blob/output/github-contribution-grid-snake.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavioLopes&repo=Trybe)](https://github.com/DavioLopes/Trybe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavioLopes&repo=Trybe&theme=nightowl)](https://github.com/DavioLopes/Trybe)
 
