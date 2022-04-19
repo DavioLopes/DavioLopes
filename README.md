@@ -20,6 +20,8 @@
 <img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 <img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
 <img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 
 
 </div>
