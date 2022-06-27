@@ -1,4 +1,6 @@
 ## Olá, eu sou o Dávio Lopes 👻
+# Atualmente estudo na Trybe desenvilvimento Web.
+# Alem disso estudo Java pela aceleração trybe.
 
 <div align="inline-block">
   <a href="https://github.com/DavioLopes">
