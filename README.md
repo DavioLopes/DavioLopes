@@ -1,5 +1,5 @@
 ## Olá, eu sou o Dávio Lopes
- * Atualmente estudo na Trybe desenvilvimento Web.
+ * Atualmente estudo na Trybe desenvolvimento Web.
  * Alem disso estudo Java pela aceleração Trybe.
 ##
 <div>
