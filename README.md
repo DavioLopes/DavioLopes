@@ -10,8 +10,8 @@
 </div>
 <div align="inline-block">
   <a href="https://github.com/DavioLopes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DavioLopes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
+  <img height="150em" width="410em" src="https://github-readme-stats.vercel.app/api?username=DavioLopes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
 </div>
    
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,mysql,mongodb,docker,heroku,git,java,go,py,spring,vscode,eclipse)](https://skillicons.dev)
