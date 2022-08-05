@@ -13,11 +13,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DavioLopes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
 </div>
-<div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-</div>
-
+   
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,mysql,mongodb,docker,heroku,git,java,go,py,spring,vscode,eclipse)](https://skillicons.dev)
 ![Snake animation](https://github.com/DavioLopes/DavioLopes/blob/output/github-contribution-grid-snake.svg)
 
 
