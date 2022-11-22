@@ -14,7 +14,7 @@
   <img height="150em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioLopes&layout=compact&langs_count=4&theme=nightowl"/>
 </div>
    
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,mysql,mongodb,docker,heroku,git,java,go,py,spring,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,mysql,mongodb,docker,heroku,prisma,java,spring,vscode)](https://skillicons.dev)
 ![Snake animation](https://github.com/DavioLopes/DavioLopes/blob/output/github-contribution-grid-snake.svg)
 
 
