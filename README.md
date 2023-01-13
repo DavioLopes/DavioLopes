@@ -5,7 +5,7 @@
 </div>
 
    
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,mysql,mongodb,docker,heroku,prisma,java,spring,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,redux,nodejs,mysql,mongodb,docker,heroku,prisma,vscode)](https://skillicons.dev)
 ![Snake animation](https://github.com/DavioLopes/DavioLopes/blob/output/github-contribution-grid-snake.svg)
 
 
