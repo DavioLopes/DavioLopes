@@ -6,6 +6,7 @@
 
    
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,redux,nodejs,mysql,mongodb,docker,heroku,prisma,vscode,idea)](https://skillicons.dev)
+
 ![Snake animation](https://github.com/DavioLopes/DavioLopes/blob/output/github-contribution-grid-snake.svg)
 
 
