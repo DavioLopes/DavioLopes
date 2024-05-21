@@ -21,6 +21,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DavioLopes/DavioLopes/output/snake.svg" alt="Snake animation" />
-
-###
